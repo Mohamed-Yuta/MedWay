@@ -70,13 +70,13 @@ MedWay is built on a robust and scalable architecture, following modern Android 
 
 ## 📸 Screenshots
 
-| Login / Signup | Map Search | Appointment Booking |
+| Login & Signup | Create Facility Profile | Admin Dashboard |
 | :---: |:---:|:---:|
-| <img src="https://i.imgur.com/7p40hWl.png" width="250"/> | <img src="https://i.imgur.com/B94Xm3m.png" width="250"/> | <img src="https://i.imgur.com/6D8YvE1.png" width="250"/> |
+| <img src="./screenshots/User%20log%20in.PNG" width="250"/> | <img src="./screenshots/Creation%20of%20a%20Healthcare%20Facility%20Profile.PNG" width="250"/> | <img src="./screenshots/Admin%20dashboard.PNG" width="250"/> |
 
-| Medical Record | AI Chatbot | Admin Dashboard |
+| Patient Signup | Manage Availability | AI Chatbot |
 | :---: |:---:|:---:|
-| <img src="https://i.imgur.com/i9Tj4jY.png" width="250"/> | <img src="https://i.imgur.com/UoY315q.png" width="250"/> | <img src="https://i.imgur.com/M6LgK3n.png" width="250"/> |
+| <img src="./screenshots/Patient%20sign%20up.PNG" width="250"/> | <img src="./screenshots/Liste%20des%20Disponibilit%C3%A9s.PNG" width="250"/> | <img src="./screenshots/Chatbot.PNG" width="250"/> |
 
 ---
 
@@ -146,10 +146,10 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 ## 🧑‍💻 Authors & Acknowledgments
 
 ### Project Team
+*   **EL OUALI Taha**
+*   **ALLALI Mohamed Amine**
 *   **LHANNAOUI Leila**
 *   **NEBKHOUT Hanae**
-*   **ALLALI Mohamed Amine**
-*   **EL OUALI Taha**
 
 ### Project Supervisor
 *   **Pr. KHALFAOUI Hafida**
