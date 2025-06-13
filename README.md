@@ -76,7 +76,7 @@ MedWay is built on a robust and scalable architecture, following modern Android 
 
 | Patient Signup | Manage Availability | AI Chatbot |
 | :---: |:---:|:---:|
-| <img src="./screenshots/Patient%20sign%20up.PNG" width="250"/> | <img src="./screenshots/Liste%20des%20Disponibilit%C3%A9s.PNG" width="250"/> | <img src="./screenshots/Chatbot.PNG" width="250"/> |
+| <img src="./screenshots/Patient%20sign%20up.PNG" width="250"/> | <img src="./screenshots/Liste%20des%20Disponibilit%C3%A9s.PNG" width="250"/> | <img src="./screenshots/Assistant.PNG" width="250"/> |
 
 ---
 
